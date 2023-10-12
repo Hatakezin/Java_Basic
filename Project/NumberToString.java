@@ -1,3 +1,4 @@
+package Project;
 public class NumberToString {
     public static void main(String[] args){
         // Example
